@@ -1,0 +1,24 @@
+h2 {
+    font-size: 35px;
+    color: aliceblue;
+}
+h3 {
+    font-size: 25px;
+    color: rebeccapurple;
+}
+section {
+    background-image: url("https://media.dayoftheshirt.com/images/shirts/LGqD9/shirtpunch_baby-mando-shirtpunch_1577855534.large.png");
+    background-size: cover;
+}
+.unordered-list-item {
+    font-family: 
+}
+
+#border-box {
+    padding-color: black;
+    height: 75px;
+    width: 75px;
+    border: 5px solid black;
+    padding: 10px 5px 15px 7px;
+    box-sizing: border-box;
+}
